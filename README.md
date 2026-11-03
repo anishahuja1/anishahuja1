@@ -95,6 +95,14 @@ Takes class/subject/topic as input, delivers structured age-appropriate explanat
 
 ---
 
+## Open Source Contributions
+
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
+[Kestra PR #21216](https://github.com/kestra-io/kestra/pull/21216) — Added unit tests for filter comparator tables and AND/OR logic.
+
+---
+
 ## A Bit More
 
 - 🏆 Qualified **Smart India Hackathon 2024** (200,000+ participants) — built a hardware-backed face auth system using TEE + RSA-AES hybrid encryption under competition timeline
